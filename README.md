@@ -1,12 +1,12 @@
-\# WebSockets Chat with Socket.IO
+WebSockets Chat with Socket.IO
 
 
 
-A simple real-time chat application built with \*\*Node.js\*\*, \*\*Express\*\*, and \*\*Socket.IO\*\* for demonstrating two-way communication using WebSockets.
+A simple real-time chat application built with Node.js, Express, and Socket.IO for demonstrating two-way communication using WebSockets.
 
 
 
-\## How to Run Locally
+How to Run Locally
 
 
 
